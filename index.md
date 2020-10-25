@@ -5,7 +5,3 @@ the [static site checker](https://devongarde.github.com/ssc), an opinionated HTM
 ## swlc
 
 the [static website link checker](https://devongarde.github.com/ssc) is a beta utility to verify website links ([info](http://dylanharris.org/swlc))
-
-## more info
-
-both these utilities were written by [dylan harris](https://dylanharris.org/)
